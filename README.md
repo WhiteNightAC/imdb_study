@@ -11,3 +11,22 @@
 - `unlabeledTrainData.tsv`：无标签评论。
 - `testData.tsv`
 - `sampleSubmission.csv`：提交格式示例。
+
+## 一、word2vec实验
+
+
+
+## 二、cnn
+
+
+## 三、lstm
+
+## 四、gru
+
+## 五、transformer
+
+## 六、bert
+
+## 七、roberta
+
+## 数据汇总
