@@ -47,8 +47,9 @@ Transformer | 0.95691 |
 | 1 | bert trainer | 0.97541 |
 | 2 | bert native | 0.97339 |
 | 3 | bert_scratch | 0.94703 |
+## 七、distil_bert
 
-## 七、roberta
+## 八、roberta
 roberta kaggle score 如下
 RoBERTa | 0.98360 |
 ## 数据汇总
@@ -57,8 +58,8 @@ RoBERTa | 0.98360 |
 | 1 | RoBERTa Trainer | 0.98360 |
 | 2 | bert trainer | 0.97541 |
 | 3 | bert native | 0.97339 |
-| 4 | DistilBERT（Trainer） | 0.97099 |
-| 5 | DistilBERT（Native） | 0.96989 |
+| 4 | distil_bert trainer | 0.97099 |
+| 5 | distil_bert native | 0.96989 |
 | 6 | CNN | 0.96532 |
 | 7 | Attention + LSTM | 0.96308 |
 | 8 | GRU | 0.96128 |
