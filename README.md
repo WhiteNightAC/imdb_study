@@ -13,8 +13,12 @@
 - `sampleSubmission.csv`：提交格式示例。
 
 ## 一、word2vec实验
-
-
+进行了Random Forest、平均词向量 + Random Forest、聚类 + Random Forest的实验。通过kaggle对预测结果进行评分。结果如下
+| 排名 | 模型 | 得分 |
+| ---: | --- | ---: |
+| 1 | Random Forest | 0.84248 |
+| 2 | 平均词向量 + Random Forest | 0.83316 |
+| 3 | 聚类 + Random Forest | 0.78620 |
 
 ## 二、cnn
 
