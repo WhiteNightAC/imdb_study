@@ -36,6 +36,7 @@ lstm、lstm+attention、capsule+lstm实验，kaggle score如下
 | 3 | LSTM | 0.93578 |
 ## 四、gru
 gru kaggle score 如下
+| --- | ---: |
 |GRU | 0.96128 |
 ## 五、transformer
 transformer kaggle score 如下
