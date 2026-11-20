@@ -48,7 +48,11 @@ Transformer | 0.95691 |
 | 2 | bert native | 0.97339 |
 | 3 | bert_scratch | 0.94703 |
 ## 七、distil_bert
-
+distil_bert trainer与distil_bert native 的kaggle score如下
+| 排名 | 模型 | 得分 |
+| ---: | --- | ---: |
+| 1 | distil_bert Trainer | 0.97099 |
+| 2 | distil_bert Native | 0.96989 |
 ## 八、roberta
 roberta kaggle score 如下
 RoBERTa | 0.98360 |
